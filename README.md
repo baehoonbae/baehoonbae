@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @baehoonbae
+## 👋 Hi, I’m @baehoonbae
 
-<!---
-baehoonbae/baehoonbae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaehoonbae&count_bg=%23337187&title_bg=%23555555&icon=&icon_color=%233D0D0D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baehoonbae)](https://github.com/baehoonbae/github-readme-stats)
+
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsh7931)](https://solved.ac/bsh7931/)
