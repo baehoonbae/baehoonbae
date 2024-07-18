@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m @baehoonbae
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaehoonbae&count_bg=%23337187&title_bg=%23555555&icon=&icon_color=%233D0D0D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br/>
 <br/>
 
