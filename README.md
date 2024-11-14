@@ -8,3 +8,6 @@
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsh7931)](https://solved.ac/bsh7931/)
+
+
+<img src="http://mazandi.herokuapp.com/api?handle=bsh7931&theme=warm"/>
