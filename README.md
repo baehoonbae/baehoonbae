@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @baehoonbae
+## @baehoonbae
 
 <br/>
 <br/>
