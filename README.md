@@ -7,6 +7,8 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baehoonbae&layout=compact)](https://github.com/baehoonbae/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsh7931)](https://solved.ac/bsh7931/)
 
 
